@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ashishs44
+- 👋 Hi, I’m Ashish
 - 👀 I’m interested in Science & Magic of Data
 - 🌱 I’m currently learning Data Science and Artificial Intelligence (including Deep Learning)
 - 💞️ I’m looking to collaborate on learnings, to start with..
